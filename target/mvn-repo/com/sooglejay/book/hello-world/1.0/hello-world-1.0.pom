@@ -11,7 +11,7 @@
     <artifactId>hello-world</artifactId>
 
     <!-- 表明当前工程的版本号-->
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <!-- 表明当前工程的名字叫做Maven Hello World Project -->
     <name>Maven Hello World Project</name>
